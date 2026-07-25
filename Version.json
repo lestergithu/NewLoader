@@ -3,7 +3,7 @@
   "url": "https://t.me/LesterMods",
 
   "pubgm": false,
-  "bgmi": false,
+  "bgmi": true,
   "korea": false,
 
   "pubgm_msg": "PUBG GL Paid Version Buy Now",
